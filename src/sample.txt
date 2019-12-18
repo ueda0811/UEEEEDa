@@ -1,3 +1,7 @@
+where to download
+https://curl.haxx.se/ca/cacert.pem
+
+
 cd C://Xilinx/Vivado/2018.3/tps/win64/git-2.16.2/mingw64/bin/
 
 vim ~/.gitconfig
@@ -6,9 +10,3 @@ vim ~/.gitconfig
 [http]
     sslcainfo = Z:/win/Downloads/cacert.pem
 ===========================
-
-
-
-where to download
-https://curl.haxx.se/ca/cacert.pem
-
